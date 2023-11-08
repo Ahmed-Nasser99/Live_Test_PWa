@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.63c9716b.css",
+    "main.js": "./static/js/main.d9d80777.js",
+    "static/js/787.7815d080.chunk.js": "./static/js/787.7815d080.chunk.js",
+    "static/media/Server.png": "./static/media/Server.b72a0bd618a4b6eaa659.png",
+    "service-worker.js": "./service-worker.js",
+    "static/media/avms logo02-01.png": "./static/media/avms logo02-01.45d81708c45e4e81c910.png",
+    "static/media/Camera.png": "./static/media/Camera.3a1a4bab789fa5c96328.png",
+    "static/media/licens.png": "./static/media/licens.04ee8ee1e2ea55ab43f2.png",
+    "static/media/trigger.png": "./static/media/trigger.5f2f74dc996ce3171de5.png",
+    "index.html": "./index.html",
+    "main.63c9716b.css.map": "./static/css/main.63c9716b.css.map",
+    "main.d9d80777.js.map": "./static/js/main.d9d80777.js.map",
+    "787.7815d080.chunk.js.map": "./static/js/787.7815d080.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c9716b.css",
+    "static/js/main.d9d80777.js"
+  ]
+}
